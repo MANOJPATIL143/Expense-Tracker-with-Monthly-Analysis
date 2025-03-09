@@ -40,15 +40,6 @@ A full-stack Expense Tracker application where users can log expenses, view tota
 - Implemented **data validation** to prevent invalid expense entries.  
 - Added **JSON report generation** for monthly expenses.  
 
-## 🎯 Bonus Challenge (If Implemented)  
-- **Pagination** for expense history to enhance performance.  
 
-## 📸 Screenshots  
-*(Add relevant screenshots here if available)*  
 
-## 🛠️ Installation & Setup  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
