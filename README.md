@@ -5,8 +5,8 @@
 A full-stack Expense Tracker application where users can log expenses, view total spending, and analyze their monthly expenses with category-wise breakdowns.
 
 ## Credentials
-username: john@example.com
-password: 1234567
+- username: john@example.com
+- password: 1234567
 
 ## 🚀 Features  
 
