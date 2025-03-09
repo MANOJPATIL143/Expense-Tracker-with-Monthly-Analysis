@@ -1,0 +1,32 @@
+.small-swal {
+  width: 300px !important; /* Smaller modal width */
+  padding: 15px !important;
+}
+
+.small-swal-title {
+  font-size: 16px !important; /* Smaller title font */
+}
+
+.swal-input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.small-input {
+  font-size: 14px !important;
+  height: 35px !important;
+  width: 100% !important;
+}
+
+.small-select {
+  font-size: 14px !important;
+  height: 38px !important;
+  width: 100% !important;
+  border-radius: 5px;
+}
+
+.small-swal-btn {
+  font-size: 14px !important; /* Smaller button text */
+  padding: 6px 12px !important;
+}
